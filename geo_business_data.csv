@@ -1,0 +1,101 @@
+Business Name,Category,Area,Latitude,Longitude,Opening Hours,Open Hour,Close Hour,Is_Open_After_20,Distance_km_from_Dublin_Center
+Edwards Ltd,Restaurant,Naas,53.359959,-6.297854,11:00-23:00,11,23,True,2.74
+Olsen-Graham,Pharmacy,Cork,53.31815,-6.236042,11:00-23:00,11,23,True,3.88
+"Williams, Scott and Tate",Hair Salon,Lucan,53.326665,-6.235628,9:00-21:00,9,21,True,3.06
+Chen LLC,Pharmacy,Mullingar,53.39961,-6.265434,8:00-18:00,8,18,False,5.55
+"Turner, James and White",Pharmacy,Maynooth,53.320691,-6.229148,7:00-21:00,7,21,True,3.85
+"Williams, Thomas and Bautista",Patisserie,Lucan,53.347487,-6.289262,10:00-18:00,10,18,False,1.95
+Reed-Lang,Patisserie,Maynooth,53.388923,-6.29648,9:00-18:00,9,18,False,4.97
+"Forbes, Arnold and Drake",Bookstore,Mullingar,53.333429,-6.246499,10:00-21:00,10,21,True,2.04
+Brown-Lopez,Restaurant,Bray,53.333108,-6.238467,9:00-23:00,9,23,True,2.36
+Hebert-Berry,Restaurant,Dublin,53.358762,-6.237204,9:00-17:00,9,17,False,1.83
+Fisher-Campbell,Hair Salon,Mullingar,53.328174,-6.286521,10:00-22:00,10,22,True,2.97
+Rodriguez Ltd,Patisserie,Naas,53.306999,-6.221179,7:00-20:00,7,20,False,5.43
+Knight-Pierce,Restaurant,Navan,53.389377,-6.213896,8:00-21:00,8,21,True,5.38
+Caldwell LLC,Super Market,Maynooth,53.328251,-6.264286,8:00-22:00,8,22,True,2.41
+Simmons Group,Pharmacy,Mullingar,53.31327,-6.213205,10:00-20:00,10,20,False,5.14
+"Collier, Peterson and Ross",Bookstore,Dublin,53.378408,-6.297368,11:00-22:00,11,22,True,4.03
+"Cook, Dixon and Wilson",Super Market,Cork,53.305424,-6.221636,8:00-17:00,8,17,False,5.57
+"Colon, Becker and Armstrong",Gym,Howth,53.381327,-6.26385,9:00-21:00,9,21,True,3.52
+Cardenas-Lam,Super Market,Lucan,53.365919,-6.287262,9:00-18:00,9,18,False,2.54
+Wright-Torres,Cafeteria,Naas,53.374623,-6.238575,11:00-23:00,11,23,True,3.12
+Lyons and Sons,Cafeteria,Dublin,53.343182,-6.257554,7:00-19:00,7,19,False,0.76
+"Price, Jackson and Brewer",Bookstore,Howth,53.386687,-6.22093,8:00-19:00,8,19,False,4.87
+"Mcintyre, Jones and Sanders",Super Market,Naas,53.343943,-6.255956,9:00-23:00,9,23,True,0.71
+Acevedo-Wilson,Pharmacy,Howth,53.305459,-6.294898,10:00-19:00,10,19,False,5.45
+Ellis and Sons,Super Market,Maynooth,53.376741,-6.260877,10:00-22:00,10,22,True,3.0
+"Ayala, Cole and Williams",Patisserie,Maynooth,53.382305,-6.25931,9:00-17:00,9,17,False,3.62
+Chen Group,Patisserie,Mullingar,53.311465,-6.275195,10:00-19:00,10,19,False,4.38
+"Acosta, Goodman and Chan",Restaurant,Cork,53.309613,-6.273387,7:00-19:00,7,19,False,4.56
+Lambert and Sons,Cafeteria,Navan,53.352218,-6.206118,11:00-19:00,11,19,False,3.62
+Cole-Gray,Bookstore,Navan,53.331431,-6.299385,10:00-23:00,10,23,True,3.31
+Nguyen-Cunningham,Gym,Navan,53.345037,-6.21669,9:00-21:00,9,21,True,2.95
+Brown and Sons,Pharmacy,Mullingar,53.399947,-6.243493,7:00-23:00,7,23,True,5.69
+Charles Inc,Hair Salon,Dublin,53.308299,-6.27578,10:00-18:00,10,18,False,4.73
+Maxwell-Pearson,Hair Salon,Bray,53.333995,-6.293717,8:00-22:00,8,22,True,2.84
+Welch-Edwards,Gym,Navan,53.352411,-6.277002,7:00-20:00,7,20,False,1.15
+Hicks-Steele,Super Market,Naas,53.304596,-6.221722,7:00-19:00,7,19,False,5.65
+Mack-Lewis,Restaurant,Navan,53.375795,-6.20134,10:00-23:00,10,23,True,4.88
+Perez Group,Bookstore,Maynooth,53.302251,-6.28833,11:00-18:00,11,18,False,5.61
+"Brown, Burton and Chambers",Cafeteria,Maynooth,53.36675,-6.225131,10:00-17:00,10,17,False,3.01
+"Hernandez, Salazar and Espinoza",Super Market,Naas,53.390541,-6.262273,11:00-18:00,11,18,False,4.54
+Mccormick-Brown,Cafeteria,Mullingar,53.384292,-6.267352,11:00-18:00,11,18,False,3.87
+Mcclain PLC,Patisserie,Naas,53.336361,-6.28845,10:00-21:00,10,21,True,2.4
+"Jackson, Drake and Porter",Bookstore,Howth,53.370523,-6.262299,8:00-18:00,8,18,False,2.31
+Crawford-Russo,Hair Salon,Cork,53.361623,-6.265871,8:00-20:00,8,20,False,1.37
+Rodriguez-Sanders,Super Market,Lucan,53.346294,-6.297912,8:00-20:00,8,20,False,2.53
+Johnston-Daniels,Patisserie,Mullingar,53.304454,-6.29186,8:00-18:00,8,18,False,5.47
+"Walker, King and Williams",Hair Salon,Maynooth,53.319059,-6.205279,11:00-18:00,11,18,False,5.01
+"Mcintyre, Warner and Bentley",Restaurant,Howth,53.392682,-6.252588,10:00-20:00,10,20,False,4.8
+Perez LLC,Pharmacy,Navan,53.329534,-6.229192,8:00-17:00,8,17,False,3.06
+Dennis Group,Hair Salon,Bray,53.316724,-6.285422,7:00-20:00,7,20,False,4.04
+"Gibson, Stewart and Moreno",Cafeteria,Cork,53.364903,-6.248761,8:00-17:00,8,17,False,1.85
+Smith-Hendrix,Bookstore,Cork,53.3298,-6.267875,10:00-17:00,10,17,False,2.28
+Vasquez Ltd,Patisserie,Navan,53.369097,-6.268265,8:00-20:00,8,20,False,2.21
+Brown-Lowe,Patisserie,Howth,53.389816,-6.254802,9:00-23:00,9,23,True,4.47
+"Lawson, Cooper and Williams",Gym,Maynooth,53.301622,-6.215486,11:00-22:00,11,22,True,6.14
+"Roach, Reynolds and Montgomery",Gym,Maynooth,53.394903,-6.203956,10:00-17:00,10,17,False,6.27
+Ray and Sons,Cafeteria,Navan,53.33039,-6.241817,10:00-17:00,10,17,False,2.49
+Kennedy Group,Super Market,Mullingar,53.342012,-6.279957,8:00-23:00,8,23,True,1.57
+"Park, Harris and Smith",Bookstore,Maynooth,53.389498,-6.295393,9:00-18:00,9,18,False,5.0
+Gilbert-Moon,Restaurant,Navan,53.334049,-6.27094,8:00-19:00,8,19,False,1.89
+Colon PLC,Gym,Dublin,53.391229,-6.260626,9:00-17:00,9,17,False,4.61
+Morse LLC,Bookstore,Lucan,53.390752,-6.250673,9:00-23:00,9,23,True,4.6
+Myers-Roberts,Hair Salon,Mullingar,53.394439,-6.256581,10:00-20:00,10,20,False,4.97
+Soto Inc,Pharmacy,Dublin,53.360788,-6.225198,9:00-17:00,9,17,False,2.64
+"Garcia, Tate and Escobar",Hair Salon,Dublin,53.390066,-6.25828,11:00-21:00,11,21,True,4.48
+Robinson and Sons,Bookstore,Dublin,53.315241,-6.20533,11:00-20:00,11,20,False,5.31
+Walker Inc,Restaurant,Cork,53.347543,-6.225632,7:00-22:00,7,22,True,2.32
+"Byrd, Munoz and Hammond",Super Market,Howth,53.334569,-6.23747,10:00-19:00,10,19,False,2.28
+Molina Inc,Cafeteria,Bray,53.393125,-6.226902,8:00-21:00,8,21,True,5.31
+"Smith, Barnes and Jones",Hair Salon,Navan,53.333497,-6.255164,10:00-19:00,10,19,False,1.85
+Pollard LLC,Patisserie,Navan,53.33038,-6.200639,9:00-22:00,9,22,True,4.52
+Le and Sons,Hair Salon,Bray,53.372457,-6.284889,8:00-23:00,8,23,True,3.01
+Simpson Inc,Restaurant,Bray,53.333565,-6.222228,9:00-18:00,9,18,False,3.11
+Oneal-Mason,Pharmacy,Naas,53.374828,-6.273273,8:00-17:00,8,17,False,2.92
+Lawrence Ltd,Patisserie,Naas,53.343213,-6.209923,10:00-21:00,10,21,True,3.43
+"Nelson, White and Lopez",Super Market,Navan,53.35539,-6.212162,8:00-17:00,8,17,False,3.27
+Mann-Roberts,Hair Salon,Mullingar,53.305915,-6.220328,8:00-22:00,8,22,True,5.56
+Williams-Glenn,Bookstore,Naas,53.343981,-6.285745,10:00-22:00,10,22,True,1.81
+"Lopez, Lin and Pope",Bookstore,Lucan,53.305102,-6.238923,7:00-17:00,7,17,False,5.18
+Ochoa-Mills,Restaurant,Dublin,53.324702,-6.253636,9:00-19:00,9,19,False,2.83
+Chapman-Mitchell,Bookstore,Maynooth,53.381123,-6.245087,7:00-18:00,7,18,False,3.63
+Smith Ltd,Bookstore,Navan,53.308315,-6.294683,10:00-23:00,10,23,True,5.15
+Tate-Fernandez,Hair Salon,Lucan,53.300979,-6.201871,7:00-21:00,7,21,True,6.69
+"Thompson, Rollins and Harper",Cafeteria,Lucan,53.320211,-6.27486,11:00-22:00,11,22,True,3.43
+"Hill, Branch and Snyder",Restaurant,Dublin,53.367881,-6.288391,7:00-17:00,7,17,False,2.75
+Burke-White,Bookstore,Bray,53.33343,-6.260666,7:00-18:00,7,18,False,1.82
+Lewis-Taylor,Gym,Naas,53.371703,-6.259334,8:00-20:00,8,20,False,2.44
+Martinez-Barrett,Super Market,Cork,53.372375,-6.21977,10:00-23:00,10,23,True,3.69
+"Rivera, Brown and Mclaughlin",Gym,Cork,53.306031,-6.271661,7:00-19:00,7,19,False,4.93
+Pruitt Group,Pharmacy,Howth,53.389678,-6.206916,10:00-22:00,10,22,True,5.69
+"Bruce, Goodwin and Jenkins",Cafeteria,Naas,53.311769,-6.265184,10:00-23:00,10,23,True,4.25
+Landry Ltd,Hair Salon,Maynooth,53.373093,-6.21217,10:00-18:00,10,18,False,4.12
+Gonzalez-Matthews,Cafeteria,Lucan,53.393471,-6.220532,8:00-18:00,8,18,False,5.53
+Johnson Inc,Hair Salon,Mullingar,53.346868,-6.283384,9:00-19:00,9,19,False,1.57
+"Johnson, Jordan and Morris",Super Market,Lucan,53.344414,-6.223405,11:00-22:00,11,22,True,2.53
+Miller LLC,Cafeteria,Lucan,53.386765,-6.202007,11:00-19:00,11,19,False,5.66
+"Ponce, Young and Cook",Super Market,Dublin,53.36496,-6.285257,9:00-18:00,9,18,False,2.37
+Barnes Inc,Patisserie,Mullingar,53.366549,-6.247519,8:00-22:00,8,22,True,2.05
+Watson-Bryant,Hair Salon,Cork,53.334508,-6.256796,9:00-17:00,9,17,False,1.72
+"Murray, Thompson and Huff",Pharmacy,Dublin,53.317512,-6.20885,7:00-17:00,7,17,False,4.97
